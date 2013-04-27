@@ -8,7 +8,9 @@ the [Segment.io](https://segment.io) [java library](https://github.com/segmentio
 
 Our libraries should be convenient and should not force the user to have to write extra code or worry about performance.
 
-Our libraries should not cause the crash of the application. Equivalently, we shouldn't starve the host from resources like CPU, memory, or network even when there's a lot of data going through.
+Our libraries should not cause the crash of the application.
+
+Equivalently, we shouldn't starve the host from resources like CPU, memory, or network even when there's a lot of data going through the library.
 
 ## Benchmark
 
