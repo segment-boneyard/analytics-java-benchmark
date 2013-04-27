@@ -112,6 +112,14 @@ And you can see the memory growing out of control:
 
 ![](http://i.imgur.com/Uz5a8dB.png)
 
+## Data
+
+The data and graphs are available as public Google Spreadsheets:
+
+[50 rps, 10000 max queue size]()
+[500 rps, 10000 max queue size]()
+[500 rps, no max queue size]()
+
 ## Run it yourself
 
 You can run the benchmark yourself via the `JavaClientBenchmark` main class.
